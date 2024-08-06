@@ -1,4 +1,4 @@
-![profile-pic](https://github.com/user-attachments/assets/b76be31d-9851-49c4-a916-7ba22bed566f)
+![WhatsApp Image 2024-08-06 at 6 49 20 PM](https://github.com/user-attachments/assets/605d5e27-272b-4ba3-ae0b-a4b90d567d21)
 👋 Hi there! I’m Sneha P Karunakaran
 
 I'm a data-driven enthusiast with a passion for turning complex data into actionable insights and innovative solutions. As a fast-learning Data Scientist, I am dedicated to leveraging cutting-edge techniques and technologies to solve real-world problems and make a meaningful impact. 🚀
